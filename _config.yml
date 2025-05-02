@@ -16,6 +16,7 @@ highlighter: rouge
 
 author:
   name   : "Nishikant Dhamane"
+  avatar : "/assets/images/Nishikant .jpg"
   bio    : "Engineering reliable, scalable systems in the cloud"
   location: "Redmond, WA"
   email  : "nishikant.dhamane@email.com"
