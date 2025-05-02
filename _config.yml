@@ -1,22 +1,50 @@
+title: "Nishikant Dhamane"
+description: "Principal Data & Site Reliability Engineer"
+baseurl: "" # leave empty for GitHub Pages user site
+url: "https://dhamane-nishikant.github.io"
+
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
+plugins:
+  - jekyll-include-cache
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+
+markdown: kramdown
+highlighter: rouge
+
 author:
   name   : "Nishikant Dhamane"
-  avatar : "/assets/images/bio-photo.jpg" # optional
-  bio    : "Principal Data & Site Reliability Engineer"
+  bio    : "Engineering reliable, scalable systems in the cloud"
   location: "Redmond, WA"
   email  : "nishikant.dhamane@email.com"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://yourwebsite.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/yourprofile"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/dhamane-nishikant"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/nishikantdhamane"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/yourprofile"
+      url: "https://www.linkedin.com/in/nishikantdhamane"
+
+# Disable feeds if you don't want RSS
+atom_feed:
+  hide: true
+
+# Navigation menu
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: single
+      author_profile: true
+
+# Navigation bar links (edit _data/navigation.yml to update order)
+paginate: 5
+paginate_path: /page:num/
+
+theme_settings:
+  minimal_mistakes_skin: default
