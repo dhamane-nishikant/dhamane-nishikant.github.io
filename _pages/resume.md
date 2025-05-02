@@ -8,7 +8,7 @@ layout: single
 
 You can download my complete resume using the link below:
 
-👉 [Download Resume (PDF)](/assets/files/resume.pdf)
+👉 [Download Resume (PDF)](/assets/Nishikant%20Dhamane%20Resume%20SRE.pdf)
 
 ---
 
