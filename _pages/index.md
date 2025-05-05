@@ -5,8 +5,6 @@ permalink: /
 author_profile: true
 ---
 
-<img src="/assets/images/logo-nishikant.png" alt="Nishikant Dhamane Logo" width="160" style="margin-bottom: 1em;" />
-
 ## 👋 Welcome!
 
 I'm **Nishikant Dhamane**, a Principal Engineer at Providence and former Microsoft technologist with 14+ years of experience in building scalable, reliable platforms across healthcare and enterprise environments.
