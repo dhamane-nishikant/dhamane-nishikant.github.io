@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Home"
+title: ""
 permalink: /
 author_profile: true
 ---
@@ -36,6 +36,6 @@ I specialize in cloud infrastructure, data engineering, and Site Reliability Eng
 
 ### 📫 Get in Touch
 
-- 💼 [LinkedIn](https://linkedin.com/in/nishikantdhamane)  
-- 💻 [GitHub](https://github.com/dhamane-nishikant)  
-- ✉️ Contact: nishikant.dhamane [at] outlook.com
+- 📧 **Email**: [Nishikant Dhamane](mailto:nishikant.dhamane@email.com)
+- 💼 **LinkedIn**: [linkedin.com/in/nishikantdhamane](https://www.linkedin.com/in/nishikantdhamane)
+- 💻 **GitHub**: [github.com/dhamane-nishikant](https://github.com/dhamane-nishikant)
