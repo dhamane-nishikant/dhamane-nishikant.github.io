@@ -16,9 +16,9 @@ I thrive at the intersection of SRE, data platforms, and cloud architecture—bu
 
 ### 🧰 Tech Stack
 
-- **Cloud**: Azure (IaaS/PaaS), Azure DevOps, Azure Data Factory, Databricks
-- **IaC**: Terraform, Bicep
-- **Scripting**: Python, PowerShell
-- **Data**: Spark SQL, Kusto (KQL), SQL, Power BI
-- **CI/CD**: GitHub Actions, Azure Pipelines
+- **Cloud**: Azure (IaaS/PaaS), Azure DevOps, Azure Data Factory, Databricks  
+- **IaC**: Terraform, Bicep  
+- **Scripting**: Python, PowerShell  
+- **Data**: Spark SQL, Kusto (KQL), SQL, Power BI  
+- **CI/CD**: GitHub Actions, Azure Pipelines  
 - **SRE Toolkit**: SLOs/SLIs, Monitoring, RCA, Runbooks, Live Event Support, On-Call Ops
